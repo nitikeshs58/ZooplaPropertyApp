@@ -1,7 +1,4 @@
 ## Zoopla Property App
-
-This is readme file for ZooplaPropertyApp repository.
-
 ### ZPG Ltd
 #### Description
 It focuses on providing users with access to information such as sold house prices, area trends & statistics and current value estimates for domestic and commercial properties in the UK.
